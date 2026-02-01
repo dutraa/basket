@@ -1,0 +1,23 @@
+# Secrets
+.env
+!.env.example
+secrets.yaml
+**/secrets.yaml
+
+# Foundry
+**/broadcast/
+**/cache/
+**/out/
+
+# Node / CRE
+node_modules/
+dist/
+
+# OS
+.DS_Store
+
+# basket-contracts deps
+basket-contracts/lib/
+basket-contracts/.env
+
+notes
