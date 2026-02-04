@@ -1,0 +1,16 @@
+{
+  "sepolia": {
+    "stablecoinAddress": "0xCFeB5C405d9969eE3922215B8A094b758AE00702",
+    "mintingConsumerAddress": "0x9da92f65CD9076C77B217220320C5e3092D5A811",
+    "ccipConsumerAddress": "0xFa031de805af3a9A72D37f57a01634ADF4a61cD5",
+    "policyEngineAddress": "0x697B79dFdbe5eD6f9d877bBeFac04d7A28be5CA1",
+    "blacklistPolicyAddress": "0xA5Db8159CD4084570FD248A7ec8457B3E348c3A6",
+    "chainSelector": "16015286601757825753"
+  },
+  "fuji": {
+    "stablecoinAddress": "0x497C61Ed4e738410a25eD9b3a2F071D1606eaa71",
+    "chainSelector": "14767482510784806043"
+  },
+  "porApiUrl": "file://./mock-por-response.json",
+  "decimals": 18
+}
