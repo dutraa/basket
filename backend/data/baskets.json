@@ -10,5 +10,29 @@
     "symbol": "DUSD",
     "stablecoinAddress": "0x6ab7121d7f6d660f6657f67bf5ef17b1cc09a3dd",
     "mintingConsumerAddress": "0x4a261b116c8a54e6d3575c0b86733d634f0ba966"
+  },
+  "CUSD": {
+    "name": "Cat USD",
+    "symbol": "CUSD",
+    "stablecoinAddress": "0x61E66d95527bb5BFC4218ef07f9F3356F6c73226",
+    "mintingConsumerAddress": "0x0b843F6d065977F7BBf81Dda913D76742081A8c5"
+  },
+  "bUSD": {
+    "name": "Basket USD",
+    "symbol": "bUSD",
+    "stablecoinAddress": "0xf03d08a08A72344F9B48756C90b84a98A7E2CdA0",
+    "mintingConsumerAddress": "0xA6DfD7E13D4dcea09BE66dB6964174B4f918dFF6"
+  },
+  "BUSD2": {
+    "name": "Basket USD",
+    "symbol": "BUSD2",
+    "stablecoinAddress": "0x49474FF842693c7690D8851c75C46A7a44B05282",
+    "mintingConsumerAddress": "0x5BE17c4FF3427C84B7E948114552AC7bD9220d45"
+  },
+  "LBBT": {
+    "name": "Labubu Token",
+    "symbol": "LBBT",
+    "stablecoinAddress": "0xCFeB5C405d9969eE3922215B8A094b758AE00702",
+    "mintingConsumerAddress": "0x9da92f65CD9076C77B217220320C5e3092D5A811"
   }
 }
