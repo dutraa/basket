@@ -34,5 +34,17 @@
     "symbol": "LBBT",
     "stablecoinAddress": "0xCFeB5C405d9969eE3922215B8A094b758AE00702",
     "mintingConsumerAddress": "0x9da92f65CD9076C77B217220320C5e3092D5A811"
+  },
+  "UUSDC": {
+    "name": "Unique USD",
+    "symbol": "UUSDC",
+    "stablecoinAddress": "0xa60F6b703bD776051c8C714ed5A82e14516d4e24",
+    "mintingConsumerAddress": "0x92164BE1467AeD97d93EeA2DCc9b9702559C461D"
+  },
+  "HUSD": {
+    "name": "Hack USD",
+    "symbol": "HUSD",
+    "stablecoinAddress": "0x6BD152065dac4258D912750f663de19593A476E1",
+    "mintingConsumerAddress": "0xF94c6B06ff776B4a1300DA8c36F4D0D838C4d3F4"
   }
 }
